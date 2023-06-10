@@ -1,2 +1,2 @@
-# spam-classifier
+# Spam-Classifier
 SMS Spam Classifier
